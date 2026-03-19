@@ -1,9 +1,5 @@
+<img width="3941" height="4782" alt="d6ed1dc8-c5e2-4533-9c12-e2bc201d02fb" src="https://github.com/user-attachments/assets/85f38a97-623b-4e96-a4ab-2d154f62dddf" />
 
-# 默认模块
-
-Base URLs:
-
-# Authentication
 
 # 开发API/登录模块
 
